@@ -21,6 +21,9 @@ of what you would see in the real world. The folder contains an `src` folder
 told hold all of our code. This allows us to seperate code from project 
 build files like `.gitignore` and `node_modules`.
 
+**NOTE:**
+To run this run `npm install` and then `npm start`
+
 ### Setup MongoDB
 - [Free remote MongoDB Hosting](https://mlab.com/)
 - [Run MongoDB Locally](https://docs.mongodb.com/manual/administration/install-community/)
