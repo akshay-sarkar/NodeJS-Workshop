@@ -1,0 +1,25 @@
+{
+  "name": "nooddee",
+  "version": "1.0.0",
+  "description": "NodeJS Workshop ===============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idappthat/NodeJS-Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idappthat/NodeJS-Workshop/issues"
+  },
+  "homepage": "https://github.com/idappthat/NodeJS-Workshop#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.3"
+  }
+}
